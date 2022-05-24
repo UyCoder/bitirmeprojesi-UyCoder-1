@@ -5,6 +5,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.assertj.core.api.Assertions.assertThat;
+import org.junit.jupiter.api.Test;
 
 /**
  * @Author Ahmed Bughra
@@ -12,6 +14,14 @@ import static org.junit.jupiter.api.Assertions.*;
  * @Project bitirmeprojesi-UyCoder
  */
 class CategoryControllerTest {
+    
+    @Autowired
+    private CategoryControler controller;
+    
+    @Test
+    public void contextLoads() throws Exception{
+        assertThat(controller).isNotNull();
+    }
 
     @BeforeEach
     void setUp() {
