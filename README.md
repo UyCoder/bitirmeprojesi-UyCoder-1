@@ -1,5 +1,5 @@
-<!-- PROJECT LOGO -->
-<br />
+<!-- PROJECT LOGO --> 
+<br /> 
 <div align="center">
   <a href="https://softtech.com.tr">
     <img src="https://softtech.com.tr/wp-content/uploads/2017/12/standart-logo.png" alt="Logo" height="80">
@@ -30,7 +30,7 @@
     + [Demo](#demo)
     + [Swagger Documentation](#Swagger-Documentation)
     + [Technologies](#Technologies)
-    + [Dependencies](#Dependencies)
+    + [Dependencies](#Dependencies) 
     + [File Structure](#File-Structure)
 * [Reference](#Reference)
     + [Articles](#Articles)
@@ -51,7 +51,7 @@ This is a graduation project for Softtech Spring Bootcamp. The Graduation Projec
 [The requirements for this project is here in Turkish](https://github.com/165-Softtech-Patika-Java-Spring/bitirmeprojesi-UyCoder/blob/main/BitirmeProjesiTalepleri.md)
 
 
-### Project Prepration Documents
+### Project Prepration Documents 
 [The Project Prepration Documents in Turkish](https://github.com/165-Softtech-Patika-Java-Spring/bitirmeprojesi-UyCoder/blob/main/BitirmeProjesiHazirlikDokumani.pdf)
 
 <p align="right">(<a href="#Table-of-contents">Table of Contents</a>)</p>
@@ -65,7 +65,7 @@ I used PostgreSQL for the Databse of this project and here is the tables and col
 
 
 ### Demo
-[Project Demo link](http://3.84.212.13:8080/)
+[Project Demo link](http://3.84.212.13:8080/) 
 
 ### Screenshots of the user interface:
   ![01](https://user-images.githubusercontent.com/50663127/160109151-a35f15c2-7669-4542-ae33-47ac4e45164a.PNG)
@@ -95,13 +95,13 @@ I used PostgreSQL for the Databse of this project and here is the tables and col
 ### Swagger Documentation
 [Swagger-UI link](http://3.84.212.13:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/)
 
-### Screenshots for swagger file 
+### Screenshots for swagger file  
 
 ![08](https://user-images.githubusercontent.com/50663127/160109272-9a1d3c56-af65-4edb-8cc2-1790a10f013f.PNG)
 
 
-<details>
- <summary><strong>Show more</strong></summary>
+<details> 
+ <summary><strong>Show more</strong></summary> 
   
  ![08](https://user-images.githubusercontent.com/50663127/160109272-9a1d3c56-af65-4edb-8cc2-1790a10f013f.PNG)
   
@@ -129,9 +129,9 @@ I used PostgreSQL for the Databse of this project and here is the tables and col
 ### Tools:
 - [Intellj IDEA](https://www.jetbrains.com/idea/)
 - [Postman](https://www.postman.com/)
-- [pgAdmin for PostgreSQL ](https://www.pgadmin.org/) 
+- [pgAdmin for PostgreSQL ](https://www.pgadmin.org/)  
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [Git Windows GUI](https://git-scm.com/downloads)
+- [Git Windows GUI](https://git-scm.com/downloads) 
 
 <p align="right">(<a href="#Table-of-contents">Table of Contents</a>)</p>
 
