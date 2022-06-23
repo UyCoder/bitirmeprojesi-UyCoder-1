@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.assertj.core.api.Assertions.assertThat;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * @Author Ahmed Bughra
@@ -16,7 +17,7 @@ import org.junit.jupiter.api.Test;
 class CategoryControllerTest {
     
     @Autowired
-    private CategoryControler controller;
+    private CategoryController controller;
     
     @Test
     public void contextLoads() throws Exception{
